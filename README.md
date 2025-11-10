@@ -1,1 +1,4 @@
 # JADU
+
+...
+1ST COMMIT
